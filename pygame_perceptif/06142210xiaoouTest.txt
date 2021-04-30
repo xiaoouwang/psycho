@@ -1,0 +1,5 @@
+SUBJ 	FILENAME 	STIMULUS 	RESPONSE 	STIMULUS_CODE 	RESPONSE_CODE 	SCORE 	CONTEXTE 	CONTEXTE_CODE 	Reaction_Time
+xiaoou 	a 	a 	a 	1 	1 	3 	voise 	0 	1848
+xiaoou 	o 	o 	o 	7 	7 	4 	voise 	0 	2480
+xiaoou 	e 	e 	e 	5 	5 	4 	voise 	0 	4632
+xiaoou 	u 	u 	u 	3 	3 	4 	voise 	0 	2245
